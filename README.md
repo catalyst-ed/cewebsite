@@ -1,2 +1,2 @@
 # cewebsite
-This is for CE's main website, currently on Squarespace.
+This is for hosting files for CE's main website, currently on Squarespace.
